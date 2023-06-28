@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Cloud Solution Architect and Curious Engineer
 
-### More Information
+#### Areas of Depth
+Networking - Cloud and On-premise 
+Kubernetes
+Security
+#### Interests
+Hiking
+Traveling
+Snowboarding
+Biking
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aarondshapiro@gmail.com](mailto:email@domain.com)
