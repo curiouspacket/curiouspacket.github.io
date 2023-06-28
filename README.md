@@ -1,1 +1,1 @@
-This is start of my blog, yay!
+This is the beggging of my Blog YAY!
